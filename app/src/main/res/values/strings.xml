@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="default_avatar_url">https://avatars.githubusercontent.com/u/69817149?v=4</string>
+
+    <string name="user">User Detail</string>
+    <string name="url">https://github.com/username</string>
+    <string name="nama">Nama</string>
+    <string name="follower">%d Followers</string>
+    <string name="follow">%d Following</string>
+    <string name="repos">%d Repositories</string>
+    <string name="hint">Masukan Username...</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Followings</string>
+    <string name="username">username</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="display">Display Mode</string>
+    <string name="favorite">Favorite User</string>
+    <string name="favorite_add">Added to Favorite</string>
+    <string name="favorite_remove">Favorite Removed</string>
+    <string name="add_favorite">Add Favorite User</string>
+    <string name="splash_image_desc">Deskripsi Gambar Splash</string>
+    <string name="splash_loading_text">Sedang Memuat...</string>
+</resources>

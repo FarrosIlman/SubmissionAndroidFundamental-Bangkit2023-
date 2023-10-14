@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#00D44E</color>
+    <color name="colorPrimaryDark">#00A738</color>
+    <color name="colorAccent">#287101</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="favBackground">#F40333</color>
+
+    <color name="darkPrimary">#255909</color>
+    <color name="primaryDark">#66D219</color>
+    <color name="darkAccent">#1A4901</color>
+    <color name="darkBackground">#121212</color>
+    <color name="darkTextPrimary">#FFFFFF</color>
+    <color name="darkTextSecondary">#BDBDBD</color>
+    <color name="darkSurface">#212121</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="usernameColor">#000000</color>
+</resources>
