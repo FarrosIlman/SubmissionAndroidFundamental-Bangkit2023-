@@ -1,6 +1,8 @@
 # GitHub User - Submission Android Fundamental
 
-![Splash Screen](screenshot/splashscreen.jpg)
+<p align="center">
+  <img src="screenshot/splashscreen.jpg" alt="Splash Screen" width="250">
+</p>
 
 Proyek ini adalah bagian dari kursus Android Fundamental dalam program Bangkit 2023. Tujuannya adalah untuk mengembangkan aplikasi Android yang memungkinkan pengguna untuk mencari dan menampilkan informasi tentang pengguna GitHub. Aplikasi ini memanfaatkan API GitHub untuk mengambil data pengguna secara real-time.
 
